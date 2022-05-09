@@ -1,6 +1,6 @@
 # Introduction
 
-Sovol SV03 is a big Dual Extruder 3D Printer , the build volume is 350*350*400mm, which can satisfy most of the users for printing models with big size. The bl touch auto leveling is one of the standard feature of sv03, which makes it easier to level the hotbed, which can precisely measure the tilt of the Bed surface. 
+Sovol SV03 is a big Dual Extruder 3D Printer , the build volume is 350 x 350 x 400mm, which can satisfy most of the users for printing models with big size. The bl touch auto leveling is one of the standard feature of sv03, which makes it easier to level the hotbed, which can precisely measure the tilt of the Bed surface. 
 
 # Related tutorials 
 
